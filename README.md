@@ -21,7 +21,7 @@
 ``` bash
 
 # Clone project
-git clone https://github.com/harryho/vue2crm.git
+git clone https://github.com/jigdev/enodo-ui-challenge.git
 
 
 # install dependences for Vue 2 CRM
