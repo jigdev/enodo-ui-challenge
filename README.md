@@ -13,7 +13,7 @@
 
 ### Live Demo
 
-[Demo App](http://ec2-54-165-53-18.compute-1.amazonaws.com/):
+[Demo App](http://ec2-54-165-53-18.compute-1.amazonaws.com):  The demo deployed on ec2.
 
 
 ## Build Setup
